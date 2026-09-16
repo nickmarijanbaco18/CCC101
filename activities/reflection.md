@@ -1,0 +1,3 @@
+In one short paragraph, how did you develop and verify your solution to one quick activity, and how did organizing and committing your files help you document your work?
+
+Answer: I developed and verified my solution by carefully reviewing the requirements, tracing the logic step by step, and running test cases to confirm the output matched expedcted results. Organizing the code into clear folder sturcutres and committing files regularly with descriptive messages privided a structed history of incremental updates, making it seamless to track changes and document the development process.
